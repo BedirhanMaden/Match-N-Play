@@ -1,51 +1,28 @@
 # Match-N-Play
 
-A Unity-based mobile matching game project built with C#, ShaderLab, and HLSL. Inspired by popular match-three puzzle games like Royal Match and Candy Crush.
+A Unity-based mobile matching game project built with C#. Inspired by popular match-three puzzle games like Royal Match and Candy Crush.
 
-## 📋 Table of Contents
-
-- [About](#about)
-- [Technology Stack](#technology-stack)
-- [Features](#features)
-- [Prerequisites](#prerequisites)
-- [Getting Started](#getting-started)
-- [Project Structure](#project-structure)
-- [Controls](#controls)
-- [Contributing](#contributing)
-- [License](#license)
-- [Support](#support)
 
 ## About
 
 **Match-N-Play** is a Unity mobile game development project that combines intuitive match-three puzzle gameplay with advanced graphics programming. Inspired by successful titles like Royal Match and Candy Crush, this project delivers engaging tile-matching mechanics with custom shaders and optimized graphics. The game challenges players to match tiles, complete levels, and progress through increasingly difficult puzzles with smooth animations and visual polish.
 
-## Technology Stack
-
-The project is built using a carefully balanced mix of technologies:
-
-- **C# (47.5%)** - Core gameplay logic, level mechanics, UI systems, and game logic
-- **ShaderLab (43.5%)** - Visual effects, tile animations, and shader implementations
-- **HLSL (9%)** - High-level shader language for advanced graphics rendering and effects
-
 ## Features
 
-- 🎮 Engaging match-three puzzle mechanics inspired by Royal Match and Candy Crush
-- ✨ Custom shader effects for tile animations and visual feedback
-- 🎨 Optimized graphics rendering for mobile platforms
-- 📱 Mobile-first design with touch input controls
-- 🎯 Progressive level system with increasing difficulty
-- 🔧 Modular and extensible codebase for easy expansion
-- ⚡ Performance optimized for various mobile devices
+- Engaging match-three puzzle mechanics inspired by Royal Match and Candy Crush
+- Custom shader effects for tile animations and visual feedback
+- Optimized graphics rendering for mobile platforms
+- Mobile-first design with touch input controls
+- Progressive level system with increasing difficulty
+- Modular and extensible codebase for easy expansion
+- Performance optimized for various mobile devices
 
 ## Prerequisites
 
 Before you begin, ensure you have the following installed:
 
 - **Unity 6000.0.59f2** (or compatible version)
-- **Visual Studio 2022** or **Rider IDE** (recommended for C# development)
-- **Git** for version control
-- At least **10 GB** of disk space
-
+  
 ## Getting Started
 
 ### Clone the Repository
@@ -95,20 +72,6 @@ Match-N-Play/
 
 *Note: Primary controls are touch-based for mobile. Desktop controls provided for development and testing.*
 
-## Contributing
-
-Contributions are welcome! If you'd like to contribute to this project:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## License
-
-This project is currently not licensed. Please check back or contact the repository owner for licensing information.
-
 ## Support
 
 For questions, issues, or suggestions:
@@ -118,4 +81,3 @@ For questions, issues, or suggestions:
 
 ---
 
-**Made with ❤️ by [BedirhanMaden](https://github.com/BedirhanMaden)**
